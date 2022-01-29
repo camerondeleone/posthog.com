@@ -17,9 +17,9 @@ Broadly, our Enterprise support is bespoke, whereas Open Source, Cloud and Scale
 |[Community](#community-support)|✔️|✔️|✔️|✔️|
 |[Dedicated Slack](#dedicated-slack)|x|Minimum $2k/month spend|➕|✔️|
 |[Dedicated email](#dedicated-email)|x|x|x|✔️|
-|[Training sessions](#training-sessions)|x|x|➕*|✔️|
-|[Deployment developer pairing](#deployment-developer-pairing)|x|x|➕*|✔️|
-|[Configuration assistance](#configuration-assistance)|x|x|➕*|✔️|
+|[Training sessions](#training-sessions)|x|x|➕|✔️|
+|[Deployment developer pairing](#deployment-developer-pairing)|x|x|➕|✔️|
+|[Configuration assistance](#configuration-assistance)|x|x|➕|✔️|
 |[Standard Terms and Conditions](#standard-terms-and-conditions)|MIT Licence|✔️|✔️|✔️|
 |[Master Services Agreement](#master-services-agreement-msa)|x|x|x|✔️|
 |[Security assessment](#security-assessment)|Standard assessment provided|Standard assessment provided|Standard assessment provided|✔️|
