@@ -15,11 +15,11 @@ Broadly, our Enterprise support is bespoke, whereas Open Source, Cloud and Scale
 |Support type|Open Source|Cloud|Scale|Enterprise|
 |---|---|---|---|---|
 |[Community](#community-support)|✔️|✔️|✔️|✔️|
-|[Dedicated Slack](#dedicated-slack)|x|Minimum $2k/month spend|✔️|✔️|
+|[Dedicated Slack](#dedicated-slack)|x|Minimum $2k/month spend|➕|✔️|
 |[Dedicated email](#dedicated-email)|x|x|x|✔️|
-|[Training sessions](#training-sessions)|x|x|x|✔️|
-|[Deployment developer pairing](#deployment-developer-pairing)|x|x|✔️|✔️|
-|[Configuration assistance](#configuration-assistance)|x|x|x|✔️|
+|[Training sessions](#training-sessions)|x|x|➕*|✔️|
+|[Deployment developer pairing](#deployment-developer-pairing)|x|x|➕*|✔️|
+|[Configuration assistance](#configuration-assistance)|x|x|➕*|✔️|
 |[Standard Terms and Conditions](#standard-terms-and-conditions)|MIT Licence|✔️|✔️|✔️|
 |[Master Services Agreement](#master-services-agreement-msa)|x|x|x|✔️|
 |[Security assessment](#security-assessment)|Standard assessment provided|Standard assessment provided|Standard assessment provided|✔️|
@@ -27,6 +27,8 @@ Broadly, our Enterprise support is bespoke, whereas Open Source, Cloud and Scale
 |[Payment via invoicing](#payment-via-invoicing)|x|x|Minimum $2k/month spend|✔️|
 |[Downtime developer pairing](#downtime-developer-pairing)|x|x|x|✔️|
 |[Region-specific private cloud infrastructure managed by PostHog](#region-specific-cloud-infrastructure-managed-by-posthog)|x|x|x|✔️|
+
+➕ While these items are not included by default in PostHog Scale pricing, we can either offer them as part of a service contract for an additional monthly fee, or refer you to a consultancy that can offer them. Get in touch with us if you're interested.
 
 ## Community Support
 
